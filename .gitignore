@@ -1,0 +1,9 @@
+# Do not commit raw unredacted evidence
+*unredacted*
+*raw*
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+secrets.*

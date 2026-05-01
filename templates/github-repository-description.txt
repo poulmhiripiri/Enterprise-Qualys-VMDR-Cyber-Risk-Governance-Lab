@@ -1,0 +1,1 @@
+Enterprise GRC-focused Qualys VMDR lab covering cybersecurity asset management, vulnerability prioritisation, patch governance, certificate risk visibility, executive reporting and risk-based remediation.

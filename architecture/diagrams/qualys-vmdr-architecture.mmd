@@ -1,0 +1,17 @@
+graph TD
+    A[Remote Workforce] --> B[Windows 11 Endpoint]
+    A --> C[Windows 10 VM]
+    D[Linux Lab] --> E[Ubuntu Server]
+    D --> F[Kali Linux]
+    D --> G[Wazuh Server]
+    B --> H[Qualys Cloud Agent]
+    C --> H
+    E --> H
+    F --> H
+    G --> H
+    H --> I[Qualys Enterprise TruRisk Platform]
+    I --> J[CyberSecurity Asset Management]
+    I --> K[VMDR Vulnerability Prioritisation]
+    I --> L[Patch Management]
+    I --> M[Certificate Management]
+    I --> N[Executive Reporting]
