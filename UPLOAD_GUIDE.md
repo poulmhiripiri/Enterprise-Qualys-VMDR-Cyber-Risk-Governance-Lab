@@ -56,3 +56,17 @@ Before uploading evidence, remove or blur:
 - Password fields
 - Browser tabs containing private information
 - Any customer or personal data
+
+
+## Large File Note
+
+This repository includes a full PDF evidence pack of approximately 62 MB. Because it is a large binary file, the most reliable upload method is GitHub Desktop or command-line Git rather than dragging many files into the browser. GitHub enforces a 100 MB single-file limit for normal Git repositories, so the included PDF should remain under that limit.
+
+Suggested approach:
+
+1. Create a new GitHub repository.
+2. Open GitHub Desktop.
+3. Clone the new empty repository to your PC.
+4. Copy all extracted project folders and files into the cloned repository folder.
+5. Commit with a message such as: `Initial Qualys VMDR GRC project upload`.
+6. Push to GitHub.

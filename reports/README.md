@@ -1,13 +1,12 @@
-# Reports Folder
+# Reports and Evidence
 
-Place only redacted reports here.
+This folder contains the full Qualys VMDR / GRC evidence pack used to support the project documentation.
 
-Recommended report names:
+## Included Evidence
 
-- `sample-asset-inventory-report-redacted.pdf`
-- `sample-vulnerability-report-redacted.pdf`
-- `sample-patch-report-redacted.pdf`
-- `sample-technology-debt-report-redacted.pdf`
-- `sample-executive-dashboard-redacted.pdf`
+- `CloudNova-Tech-Qualys-VMDR-GRC-Lab-Full-Evidence.pdf` - full project evidence pack covering Qualys account onboarding, agent deployment, asset inventory, vulnerability management, patch management, reporting and certificate learning evidence.
+- `executive-dashboard-template.md` - management-level dashboard template for summarising cyber risk posture.
 
-Do not upload the raw unredacted lab PDF to a public GitHub repository.
+## Governance Note
+
+The full PDF is included as a portfolio evidence document. The lab environment was virtualised and has since been reset. Screenshots in the source evidence were prepared with sensitive values obscured where applicable.
