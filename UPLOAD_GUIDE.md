@@ -70,3 +70,24 @@ Suggested approach:
 4. Copy all extracted project folders and files into the cloned repository folder.
 5. Commit with a message such as: `Initial Qualys VMDR GRC project upload`.
 6. Push to GitHub.
+
+
+## Uploading the Video File
+
+The video evidence file is useful, but it is not essential for the GitHub repository. If GitHub browser upload fails, upload the rest of the repository first and either:
+
+1. Store the video externally and link it from `video-evidence/README.md`, or
+2. Use Git command line with Git LFS for the video file.
+
+Suggested Git LFS commands:
+
+```bash
+git lfs install
+git lfs track "*.mp4"
+git add .gitattributes
+git add video-evidence/qualys-colleague-setup-and-implementation-walkthrough.mp4
+git commit -m "Add Qualys video evidence using Git LFS"
+git push
+```
+
+If you are uploading through the GitHub web interface, large media files may fail. In that case, keep the video in Google Drive, YouTube unlisted, LinkedIn featured media or a GitHub Release asset, and keep only the thumbnail and README reference in the repository.

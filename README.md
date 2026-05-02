@@ -93,7 +93,9 @@ enterprise-qualys-vmdr-grc-lab/
 ├── certificate-management/
 ├── governance/
 ├── reports/
+├── certifications/
 ├── screenshots/
+├── video-evidence/
 └── templates/
 ```
 
@@ -166,6 +168,23 @@ This project is relevant to roles such as:
 - Security Engineer
 - Patch Management Analyst
 - Security Compliance Analyst
+
+
+---
+
+## Training and Knowledge Transfer Evidence
+
+This project also includes Qualys certificate evidence and a practical colleague-support walkthrough video. These artefacts demonstrate that the work is supported by both formal Qualys learning and practical knowledge-sharing capability.
+
+Included evidence:
+
+- `certifications/Qualys-Enterprise-TruRisk-Platform-Certificate-Poul-Mhiripiri.pdf`
+- `certifications/Qualys-VMDR-Certificate-Poul-Mhiripiri.pdf`
+- `screenshots/06-certificates/`
+- `video-evidence/qualys-colleague-setup-and-implementation-walkthrough.mp4`
+- `training-and-mentoring.md`
+
+Recruiters should treat the video as optional supporting evidence. The main technical proof remains the structured documentation, full evidence PDF, screenshots and governance artefacts.
 
 ---
 

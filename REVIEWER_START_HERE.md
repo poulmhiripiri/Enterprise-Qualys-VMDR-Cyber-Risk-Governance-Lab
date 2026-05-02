@@ -21,3 +21,11 @@ This project demonstrates an enterprise-style Qualys VMDR and GRC implementation
 - Patch selection, deployment and validation
 - Certificate governance awareness
 - Executive reporting and evidence-based risk communication
+
+
+## Additional Evidence Added
+
+- Formal Qualys certificate PDFs are in `certifications/`.
+- Certificate preview screenshots are in `screenshots/06-certificates/`.
+- The colleague support video is in `video-evidence/` and is best treated as optional supplementary evidence.
+- Training and mentoring context is summarised in `training-and-mentoring.md`.

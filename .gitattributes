@@ -1,0 +1,2 @@
+# Track large video evidence using Git LFS when pushing from command line
+*.mp4 filter=lfs diff=lfs merge=lfs -text

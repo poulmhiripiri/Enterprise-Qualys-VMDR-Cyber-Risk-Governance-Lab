@@ -47,3 +47,12 @@ The full source evidence pack is included here:
 - The screenshots are pulled from the full PDF evidence pack.
 - The evidence has been organised by implementation phase: architecture, agent onboarding, asset inventory, vulnerability management, patch management and executive reporting.
 - The PDF is included because the environment was virtualised and has since been reset, and sensitive details in screenshots were already obscured.
+
+## Additional Training and Mentoring Evidence
+
+| Evidence | Location | Notes |
+|---|---|---|
+| Qualys Enterprise TruRisk Platform certificate | `certifications/Qualys-Enterprise-TruRisk-Platform-Certificate-Poul-Mhiripiri.pdf` | Supports Enterprise TruRisk platform understanding. |
+| Qualys VMDR certificate | `certifications/Qualys-VMDR-Certificate-Poul-Mhiripiri.pdf` | Supports vulnerability management detection and response capability. |
+| Certificate screenshots | `screenshots/06-certificates/` | Quick visual evidence for reviewers. |
+| Qualys colleague setup walkthrough video | `video-evidence/qualys-colleague-setup-and-implementation-walkthrough.mp4` | Optional evidence of practical knowledge-sharing and colleague support. |
